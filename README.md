@@ -9,7 +9,7 @@ I am a strong supporter of open source.
 
 ### My top projects
 
-[![FullControls Card](https://github-readme-stats.vercel.app/api/pin/?username=devpelux&repo=fullcontrols&show_owner&show_icons=true&bg_color=f5f5f5)](https://github.com/devpelux/fullcontrols)
+[![FullControls Card](https://github-readme-stats.vercel.app/api/pin/?username=devpelux&repo=fullcontrols&show_owner&show_icons=true&bg_color=f5f5f5)](https://github.com/devpelux/fullcontrols)  
 [![WColpick Card](https://github-readme-stats.vercel.app/api/pin/?username=devpelux&repo=wcolpick&show_owner&show_icons=true&bg_color=f5f5f5)](https://github.com/devpelux/wcolpick)
 
 
