@@ -4,7 +4,7 @@ I am a strong supporter of open source.
 
 - 🔭 I’m currently working on [**FullControls**](https://github.com/devpelux/fullcontrols)
 - 🌱 I’m currently focused on [**WPF**](https://docs.microsoft.com/visualstudio/designers/getting-started-with-wpf) and [**C#**][csharp]
-- 💬 Ask me about anything [**here**](https://github.com/devpelux/devpelux/issues)
+- 💬 Ask me about anything [**here**](https://github.com/devpelux/devpelux/discussions)
 
 
 ### My top projects
@@ -40,6 +40,7 @@ I am a strong supporter of open source.
 [<img alt="android studio" align="left" height="32px" src="https://github.com/devpelux/devpelux/blob/main/Assets/as.png" />][as]
 [<img alt="visual studio" align="left" height="32px" src="https://github.com/devpelux/devpelux/blob/main/Assets/vs.png" />][vs]
 [<img alt="visual studio code" align="left" height="32px" src="https://github.com/devpelux/devpelux/blob/main/Assets/vscode.png" />][vscode]
+
 <br><br>
 
 
