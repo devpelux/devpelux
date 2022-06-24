@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="yap-stop-dark">
+    <g id="circle">
+      <circle cx="128" cy="128" r="128"/>
+    </g>
+    <rect id="square" class="cls-1" x="65.13" y="65.13" width="125.74" height="125.74" rx="3" ry="3"/>
+  </g>
+</svg>
