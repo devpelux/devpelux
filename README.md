@@ -1,19 +1,11 @@
-### Hi there I'm **devpelux!** 👋
-I'm Salvatore Peluso, a developer by passion.  
-I am a strong supporter of open source.
-
-> _"If something doesn't exist, you can still invent it."_
-
-- 💬 Ask me about anything [**here**](https://github.com/devpelux/devpelux/discussions)
-- 🖖 If you want to sponsor me I will appreciate, this will inspire me to keep doing my best...
+Hi there 👋 I'm devpelux, a developer by passion.
 
 
-### ☄️ Pinned
-[![fullcontrols](https://github-readme-stats.vercel.app/api/pin/?username=devpelux&repo=fullcontrols&show_owner&show_icons=true&bg_color=f5f5f5)](https://github.com/devpelux/fullcontrols)
-[![terravibe](https://github-readme-stats.vercel.app/api/pin/?username=devpelux&repo=terravibe&show_owner&show_icons=true&bg_color=f5f5f5)](https://github.com/devpelux/terravibe)
+### ☄️ Pinned repos
 [![xmountains](https://github-readme-stats.vercel.app/api/pin/?username=devpelux&repo=xmountains&show_owner&show_icons=true&bg_color=f5f5f5)](https://github.com/devpelux/xmountains)
 [![vault](https://github-readme-stats.vercel.app/api/pin/?username=devpelux&repo=vault&show_owner&show_icons=true&bg_color=f5f5f5)](https://github.com/devpelux/vault)
-[![wcolpick](https://github-readme-stats.vercel.app/api/pin/?username=devpelux&repo=wcolpick&show_owner&show_icons=true&bg_color=f5f5f5)](https://github.com/devpelux/wcolpick)
+[![fullcontrols](https://github-readme-stats.vercel.app/api/pin/?username=devpelux&repo=fullcontrols&show_owner&show_icons=true&bg_color=f5f5f5)](https://github.com/devpelux/fullcontrols)
+[![wpfcoretools](https://github-readme-stats.vercel.app/api/pin/?username=devpelux&repo=wpfcoretools&show_owner&show_icons=true&bg_color=f5f5f5)](https://github.com/devpelux/wpfcoretools)
 
 
 ### How to reach me
@@ -22,8 +14,10 @@ I am a strong supporter of open source.
 [![twitter](https://raw.githubusercontent.com/devpelux/devpelux/main/Assets/twitter.png)](https://twitter.com/salvopelux)
 [![website](https://raw.githubusercontent.com/devpelux/devpelux/main/Assets/website.png)](https://devpelux.xyz)
 
+💬 Ask me about anything [here](https://github.com/devpelux/devpelux/discussions)
 
-### What I've used
+
+### What I use in my projects
 [![csharp](https://raw.githubusercontent.com/devpelux/devpelux/main/Assets/csharp.png)](https://docs.microsoft.com/dotnet/csharp)
 [![xaml](https://raw.githubusercontent.com/devpelux/devpelux/main/Assets/xaml.png)](https://docs.microsoft.com/dotnet/desktop/wpf/xaml)
 [![java](https://raw.githubusercontent.com/devpelux/devpelux/main/Assets/java.png)](https://docs.oracle.com/en/java)
@@ -42,3 +36,6 @@ I am a strong supporter of open source.
 ### Some statistics
 [![stats](https://github-readme-stats.vercel.app/api?username=devpelux&show_icons=true&bg_color=f5f5f5)](https://github.com/anuraghazra/github-readme-stats)  
 [![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devpelux&show_icons=true&bg_color=f5f5f5)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<h6 align="right">"Programming is art"</h6>
