@@ -9,45 +9,49 @@
         <title>Github Deployment Cleaner</title>
     </head>
     <body>
-        <h1>GITHUB DEPLOYMENT CLEANER</h1>
+        <div class="title">
+            <h1>GITHUB DEPLOYMENT CLEANER</h1>
+        </div>
+        
+        <div>
+            <div class="form">
+                <h4>Input required parameters</h4>
 
-        <div class="form">
-            <h4>Input required parameters</h4>
+                <div class="input">
+                    <label for="token" class="label">Token ¹ ' ²</label>
+                    <input type="text" id="token" name="token" class="textbox"/>
+                </div>
+                
+                <div class="input">
+                    <label for="user" class="label">Username ¹</label>
+                    <input type="text" id="user" name="user" class="textbox"/>
+                </div>
 
-            <div class="input">
-                <label for="token" class="label">Token ¹ ' ²</label>
-                <input type="text" id="token" name="token" class="textbox"/>
-            </div>
-            
-            <div class="input">
-                <label for="user" class="label">Username ¹</label>
-                <input type="text" id="user" name="user" class="textbox"/>
-            </div>
+                <div class="input">
+                    <label for="repos" class="label">Repository ¹</label>
+                    <input type="text" id="repos" name="repos" class="textbox"/>
+                </div>
 
-            <div class="input">
-                <label for="repos" class="label">Repository ¹</label>
-                <input type="text" id="repos" name="repos" class="textbox"/>
-            </div>
+                <div class="input">
+                    <label for="last" class="last-label">Delete last deployment
+                        <input type="checkbox" id="last" name="last" checked="checked"/>
+                        <span class="checkmark"></span>
+                    </label>
+                </div>
+                
+                <div class="input-btn">
+                    <input type="button" onclick="clean_OnClick()" value="CLEAN" class="button"/>
+                </div>
 
-            <div class="input">
-                <label for="last" class="last-label">Delete last deployment
-                    <input type="checkbox" id="last" name="last" checked="checked"/>
-                    <span class="checkmark"></span>
-                </label>
-            </div>
-            
-            <div class="input-btn">
-                <input type="button" onclick="clean_OnClick()" value="CLEAN" class="button"/>
-            </div>
+                <div class="output">
+                    <label for="log" class="log-label">Log</label><br>
+                    <textarea id="log" name="log" class="textbox-log" readonly></textarea>
+                </div>
 
-            <div class="output">
-                <label for="log" class="log-label">Log</label><br>
-                <textarea id="log" name="log" class="textbox-log" readonly></textarea>
-            </div>
-
-            <div class="notes">
-                <h6>1: Required field.</h6>
-                <h6>2: The token must be `repo_deployments` authorized.</h6>
+                <div class="notes">
+                    <h6>1: Required field.</h6>
+                    <h6>2: The token must be `repo_deployments` authorized.</h6>
+                </div>
             </div>
         </div>
     </body>

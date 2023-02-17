@@ -18,8 +18,11 @@ h1 {
     padding: 20px;
 }
 
+.title {
+    padding: 10px;
+}
+
 .btn-list {
-    position: absolute;
 	margin: auto;
 	top:0;
 	bottom: 0;
