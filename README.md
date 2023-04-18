@@ -20,13 +20,9 @@ Hi there 👋 I'm devpelux, a developer by passion.
 
 ### What I use in my projects
 [![csharp](https://raw.githubusercontent.com/devpelux/devpelux/main/Assets/csharp.png)](https://docs.microsoft.com/dotnet/csharp)
-[![xaml](https://raw.githubusercontent.com/devpelux/devpelux/main/Assets/xaml.png)](https://docs.microsoft.com/dotnet/desktop/wpf/xaml)
 [![java](https://raw.githubusercontent.com/devpelux/devpelux/main/Assets/java.png)](https://docs.oracle.com/en/java)
 [![sql](https://raw.githubusercontent.com/devpelux/devpelux/main/Assets/sql.png)](https://www.w3schools.com/sql)
-[![javascript](https://raw.githubusercontent.com/devpelux/devpelux/main/Assets/javascript.png)](https://www.javascript.com)
-[![jquery](https://raw.githubusercontent.com/devpelux/devpelux/main/Assets/jquery.png)](https://jquery.com)
-[![css](https://raw.githubusercontent.com/devpelux/devpelux/main/Assets/css.png)](https://www.w3schools.com/css)
-[![html](https://raw.githubusercontent.com/devpelux/devpelux/main/Assets/html.png)](https://www.w3schools.com/html)
+[![xaml](https://raw.githubusercontent.com/devpelux/devpelux/main/Assets/xaml.png)](https://docs.microsoft.com/dotnet/desktop/wpf/xaml)
 
 [![android studio](https://raw.githubusercontent.com/devpelux/devpelux/main/Assets/as.png)](https://developer.android.com/studio)
 [![intellij idea](https://raw.githubusercontent.com/devpelux/devpelux/main/Assets/intellij.png)](https://www.jetbrains.com/idea)
