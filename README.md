@@ -6,6 +6,7 @@ Hi there 👋 I'm devpelux, a developer by passion.
 [![vault](https://github-readme-stats.vercel.app/api/pin/?username=devpelux&repo=vault&show_owner&show_icons=true&bg_color=f5f5f5)](https://github.com/devpelux/vault)
 [![fullcontrols](https://github-readme-stats.vercel.app/api/pin/?username=devpelux&repo=fullcontrols&show_owner&show_icons=true&bg_color=f5f5f5)](https://github.com/devpelux/fullcontrols)
 [![wpfcoretools](https://github-readme-stats.vercel.app/api/pin/?username=devpelux&repo=wpfcoretools&show_owner&show_icons=true&bg_color=f5f5f5)](https://github.com/devpelux/wpfcoretools)
+[![terravibe](https://github-readme-stats.vercel.app/api/pin/?username=devpelux&repo=terravibe&show_owner&show_icons=true&bg_color=f5f5f5)](https://github.com/devpelux/terravibe)
 
 
 ### How to reach me
