@@ -18,12 +18,9 @@ Hi there 👋 I'm devpelux, a developer by passion.
 💬 Ask me about anything [here](https://github.com/devpelux/devpelux/discussions)
 
 
-### What I use in my projects
+### Recommended languages and IDEs
 [![csharp](https://raw.githubusercontent.com/devpelux/devpelux/main/Assets/csharp.png)](https://docs.microsoft.com/dotnet/csharp)
 [![java](https://raw.githubusercontent.com/devpelux/devpelux/main/Assets/java.png)](https://docs.oracle.com/en/java)
-[![sql](https://raw.githubusercontent.com/devpelux/devpelux/main/Assets/sql.png)](https://www.w3schools.com/sql)
-[![xaml](https://raw.githubusercontent.com/devpelux/devpelux/main/Assets/xaml.png)](https://docs.microsoft.com/dotnet/desktop/wpf/xaml)
-
 [![android studio](https://raw.githubusercontent.com/devpelux/devpelux/main/Assets/as.png)](https://developer.android.com/studio)
 [![intellij idea](https://raw.githubusercontent.com/devpelux/devpelux/main/Assets/intellij.png)](https://www.jetbrains.com/idea)
 [![visual studio](https://raw.githubusercontent.com/devpelux/devpelux/main/Assets/vs.png)](https://visualstudio.microsoft.com)
