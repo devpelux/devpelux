@@ -1,5 +1,10 @@
 Hi there 👋 I'm devpelux, a developer by passion.
 
+As a child, I always had a passion for putting together paper, cardboard, and tape, and creating small objects to play with,
+sometimes even elaborate ones, like tracks for rolling marbles...  
+Now I use programming to do all of that. It's satisfying to create something, like a game object, and see that it works exactly as you want it to!
+
+Here are some of my projects.
 
 ### ☄️ Pinned repos
 [![xmountains](https://github-readme-stats.vercel.app/api/pin/?username=devpelux&repo=xmountains&show_owner&show_icons=true&bg_color=f5f5f5)](https://github.com/devpelux/xmountains)
