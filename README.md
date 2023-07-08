@@ -4,14 +4,11 @@ As a child, I always had a passion for putting together paper, cardboard, and ta
 sometimes even elaborate ones, like tracks for rolling marbles...  
 Now I use programming to do all of that. It's satisfying to create something, like a game object, and see that it works exactly as you want it to!
 
-Here are some of my projects.
-
-### ☄️ Pinned repos
+### ☄️ Here are some of my projects
 [![xmountains](https://github-readme-stats.vercel.app/api/pin/?username=devpelux&repo=xmountains&show_owner&show_icons=true&bg_color=f5f5f5)](https://github.com/devpelux/xmountains)
+[![terravibe](https://github-readme-stats.vercel.app/api/pin/?username=devpelux&repo=terravibe&show_owner&show_icons=true&bg_color=f5f5f5)](https://github.com/devpelux/terravibe)
 [![vault](https://github-readme-stats.vercel.app/api/pin/?username=devpelux&repo=vault&show_owner&show_icons=true&bg_color=f5f5f5)](https://github.com/devpelux/vault)
 [![fullcontrols](https://github-readme-stats.vercel.app/api/pin/?username=devpelux&repo=fullcontrols&show_owner&show_icons=true&bg_color=f5f5f5)](https://github.com/devpelux/fullcontrols)
-[![wpfcoretools](https://github-readme-stats.vercel.app/api/pin/?username=devpelux&repo=wpfcoretools&show_owner&show_icons=true&bg_color=f5f5f5)](https://github.com/devpelux/wpfcoretools)
-[![terravibe](https://github-readme-stats.vercel.app/api/pin/?username=devpelux&repo=terravibe&show_owner&show_icons=true&bg_color=f5f5f5)](https://github.com/devpelux/terravibe)
 
 
 ### How to reach me
